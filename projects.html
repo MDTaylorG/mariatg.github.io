@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About Me – Maria Taylor</title>
+<title>Projects – Maria Taylor</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -75,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -97,11 +97,11 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About You</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
+    <a class="nav-link active" href="./projects.html" aria-current="page"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
@@ -123,13 +123,22 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#predicting-job-salaries-with-machine-learning-on-scale" id="toc-predicting-job-salaries-with-machine-learning-on-scale" class="nav-link active" data-scroll-target="#predicting-job-salaries-with-machine-learning-on-scale">Predicting Job Salaries with Machine Learning on Scale</a></li>
+  <li><a href="#big-data-visualization-at-scale" id="toc-big-data-visualization-at-scale" class="nav-link" data-scroll-target="#big-data-visualization-at-scale">Big Data Visualization at Scale</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About Me</h1>
+<h1 class="title">Projects</h1>
 </div>
 
 
@@ -146,30 +155,18 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="hi-im-maria" class="level2">
-<h2 class="anchored" data-anchor-id="hi-im-maria">Hi, I’m Maria</h2>
-<p>I’m an Analytics and Business Intelligence professional with several years of experience turning complex data into decisions that matter. I’m currently pursuing my MS in Applied Business Analytics at Boston University, building on a foundation in economics and a series of professional certifications in data science, SQL, and big data.</p>
+<p>A selection of academic projects from my MS in Applied Business Analytics at Boston University, focused on large-scale data analysis with PySpark, machine learning, and data visualization using real-world labor market data.</p>
+<section id="predicting-job-salaries-with-machine-learning-on-scale" class="level2">
+<h2 class="anchored" data-anchor-id="predicting-job-salaries-with-machine-learning-on-scale">Predicting Job Salaries with Machine Learning on Scale</h2>
+<p><strong>Tech stack:</strong> PySpark, MLlib, Random Forest, Generalized Linear Regression</p>
+<p>Built and compared three regression models — Generalized Linear Regression, Polynomial Regression, and Random Forest — to predict job salaries from structured features (experience, education, location, remote-work type) at scale using PySpark. Diagnosed and resolved a near-singular design matrix issue caused by sparse one-hot-encoded categories, and selected Random Forest as the best-performing model (R² = 0.47) based on RMSE, AIC, and BIC comparisons.</p>
+<p><a href="https://github.com/AD688-SP26/a05-sum26-MDTaylorG">View source code →</a></p>
 </section>
-<section id="my-background" class="level2">
-<h2 class="anchored" data-anchor-id="my-background">My Background</h2>
-<p>My career has centered on leading analytics and BI functions — defining data strategy, owning cloud data infrastructure (Snowflake, Azure Synapse, Microsoft Fabric), and translating business questions into scalable data solutions. I’ve worked across marketing analytics in enterprise software and data consulting engagements spanning financial services, pharmaceuticals, and banking, building everything from ETL pipelines to predictive models and executive-facing dashboards.</p>
-</section>
-<section id="what-im-working-toward" class="level2">
-<h2 class="anchored" data-anchor-id="what-im-working-toward">What I’m Working Toward</h2>
-<p>I’m continuing to grow as a leader in analytics and business intelligence — deepening my technical foundation in machine learning and statistical modeling through this program while building on the strategic and cross-functional skills I’ve developed leading data teams. I’m especially interested in the intersection of rigorous data science and clear business storytelling: insights only create value when the people who need them can act on them.</p>
-</section>
-<section id="education" class="level2">
-<h2 class="anchored" data-anchor-id="education">Education</h2>
-<ul>
-<li><strong>MS, Applied Business Analytics</strong> — Boston University (2025–Present)</li>
-<li><strong>BA, Economics</strong> — Universidad del Norte (2018)</li>
-<li>Professional certificates in Data Science (Harvard, IBM), SQL for Data Analysis (UC Davis), Big Data (Universitat Autònoma de Barcelona), Data Analytics (Google), Financial Analysis (Yale), and Intellectual Property (WIPO)</li>
-</ul>
-</section>
-<section id="skills" class="level2">
-<h2 class="anchored" data-anchor-id="skills">Skills</h2>
-<p><strong>Technical:</strong> SQL · Python · R · Power BI · Tableau · Looker · Pandas · Jupyter · Azure · AWS · Snowflake · Oracle · A/B Testing</p>
-<p><strong>Languages:</strong> English (fluent) · Spanish (fluent) · Portuguese (fluent)</p>
+<section id="big-data-visualization-at-scale" class="level2">
+<h2 class="anchored" data-anchor-id="big-data-visualization-at-scale">Big Data Visualization at Scale</h2>
+<p><strong>Tech stack:</strong> PySpark, Plotly, Python</p>
+<p>Processed and visualized large-scale job posting data using PySpark for aggregation and Plotly for interactive charts, exploring salary trends, remote-work patterns, and regional differences across the U.S. labor market.</p>
+<p><a href="https://github.com/AD688-SP26/a03-sum26-MDTaylorG">View source code →</a></p>
 
 
 </section>
