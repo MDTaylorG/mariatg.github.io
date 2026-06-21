@@ -1,0 +1,24 @@
+---
+title: "Projects"
+format:
+  html:
+    toc: true
+---
+
+A selection of academic projects from my MS in Applied Business Analytics at Boston University, focused on large-scale data analysis with PySpark, machine learning, and data visualization using real-world labor market data.
+
+## Predicting Job Salaries with Machine Learning on Scale
+
+**Tech stack:** PySpark, MLlib, Random Forest, Generalized Linear Regression
+
+Built and compared three regression models — Generalized Linear Regression, Polynomial Regression, and Random Forest — to predict job salaries from structured features (experience, education, location, remote-work type) at scale using PySpark. Diagnosed and resolved a near-singular design matrix issue caused by sparse one-hot-encoded categories, and selected Random Forest as the best-performing model (R² = 0.47) based on RMSE, AIC, and BIC comparisons.
+
+[View source code →](https://github.com/AD688-SP26/a05-sum26-MDTaylorG)
+
+## Big Data Visualization at Scale
+
+**Tech stack:** PySpark, Plotly, Python
+
+Processed and visualized large-scale job posting data using PySpark for aggregation and Plotly for interactive charts, exploring salary trends, remote-work patterns, and regional differences across the U.S. labor market.
+
+[View source code →](https://github.com/AD688-SP26/a03-sum26-MDTaylorG)

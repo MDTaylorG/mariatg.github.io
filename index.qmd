@@ -1,13 +1,17 @@
 ---
-title: "Welcome to My Website"
-author: "Maria Taylor"
-date: "2026-05-31"
+title: "Maria Taylor"
+subtitle: "Analytics & Business Intelligence | MS Applied Business Analytics, Boston University"
 format:
   html:
-    theme: journal
-    toc: true
+    toc: false
 ---
 
-# Hello, World!
+## Welcome
 
-Welcome to my Quarto website. My name is Maria Taylor and I am a student at Boston University studying Web Analytics.
+I'm Maria Taylor, an Analytics and Business Intelligence professional currently pursuing my MS in Applied Business Analytics at Boston University. This site is a portfolio of my academic projects, technical skills, and professional background.
+
+Explore the tabs above to learn more about my background, see the projects I've built, review my professional experience, or get in touch.
+
+::: {.callout-note appearance="simple"}
+**Quick links:** [About Me](about.qmd) · [Projects](projects.qmd) · [Experience](cv.qmd) · [Contact](contact.qmd)
+:::

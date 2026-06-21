@@ -1,0 +1,14 @@
+---
+title: "Contact"
+format:
+  html:
+    toc: false
+---
+
+I'm always happy to connect — whether about analytics, data science opportunities, or this program. Feel free to reach out through either of the channels below.
+
+::: {.callout-note appearance="simple"}
+**Email:** [mariadeliataylor@gmail.com](mailto:mariadeliataylor@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/maria-taylor-a9ba79253](https://www.linkedin.com/in/maria-taylor-a9ba79253/)
+:::

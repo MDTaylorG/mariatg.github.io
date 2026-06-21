@@ -1,0 +1,50 @@
+---
+title: "Professional Experience"
+format:
+  html:
+    toc: true
+---
+
+## Summary
+
+Strategic, results-driven Analytics & Business Intelligence leader with experience transforming complex datasets into actionable insights that drive business performance. Proven expertise in cloud data platforms (Snowflake, Azure Synapse, Microsoft Fabric) and advanced analytics using SQL, Python, and R. Skilled in leading end-to-end data strategies — from integration and modeling to executive-level reporting — while ensuring data accuracy, governance, and stakeholder alignment.
+
+## Experience
+
+### Principal Analytics & BI Lead — Marketing Analytics, Enterprise Software
+*2024 – Present*
+
+- Led a global marketing analytics and BI function, aligning data strategy with business goals across field marketing, marketing programs, automation, and executive leadership.
+- Owned data infrastructure and governance across cloud platforms (Snowflake, Azure Synapse, Microsoft Fabric), integrating and harmonizing large-scale datasets from CRM, marketing automation, and intent-data platforms.
+- Built and optimized ETL/ELT pipelines (dbt, Fivetran) supporting key data models across the marketing tech stack.
+- Delivered advanced analysis using SQL, Python, and R, along with executive-facing dashboards in Power BI, to support strategic and operational decision-making.
+- Established data quality standards and promoted data literacy across cross-functional teams.
+
+### Senior Analyst — Data & Analytics Consulting, Multi-Industry
+*2018 – 2023*
+
+- Delivered analytics and data science consulting across financial services, pharmaceuticals, marketing, and banking, enabling data-driven decisions through advanced modeling and cloud-based solutions.
+- Led discovery and requirements-gathering for technology and analytics initiatives, translating client objectives into scalable data strategies.
+- Built and deployed data models using machine learning, predictive algorithms, regression analysis, segmentation, and A/B testing.
+- Identified key performance indicators and uncovered insights that drove measurable improvements in marketing effectiveness and customer retention.
+- Served as a strategic partner bridging business needs with technical execution across client organizations.
+
+## Education
+
+| Degree / Certificate | Institution | Year |
+|---|---|---|
+| MS, Applied Business Analytics | Boston University | 2025–Present |
+| BA, Economics | Universidad del Norte | 2018 |
+| Professional Certificate, Data Science | Harvard University | 2023 |
+| Professional Certificate, Data Science | IBM | 2021 |
+| Professional Certificate, Data Analytics | Google | 2020 |
+| Professional Certificate, SQL for Data Analysis | UC Davis | 2020 |
+| Certificate, Financial Analysis | Yale University | 2020 |
+| Professional Certificate, Big Data | Universitat Autònoma de Barcelona | 2019 |
+| Intellectual Property Certificate | WIPO | 2023 |
+
+## Skills
+
+**Technical:** Excel · SQL · Python · R · Power BI · Tableau · Looker · Pandas · Jupyter · Azure · AWS · Snowflake · Oracle · A/B Testing · Agile · Salesforce · Dynamics 365
+
+**Languages:** English (fluent) · Spanish (fluent) · Portuguese (fluent)

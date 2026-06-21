@@ -1,5 +1,30 @@
 ---
-title: "About"
+title: "About Me"
+format:
+  html:
+    toc: false
 ---
 
-About this site
+## Hi, I'm Maria
+
+I'm an Analytics and Business Intelligence professional with several years of experience turning complex data into decisions that matter. I'm currently pursuing my MS in Applied Business Analytics at Boston University, building on a foundation in economics and a series of professional certifications in data science, SQL, and big data.
+
+## My Background
+
+My career has centered on leading analytics and BI functions — defining data strategy, owning cloud data infrastructure (Snowflake, Azure Synapse, Microsoft Fabric), and translating business questions into scalable data solutions. I've worked across marketing analytics in enterprise software and data consulting engagements spanning financial services, pharmaceuticals, and banking, building everything from ETL pipelines to predictive models and executive-facing dashboards.
+
+## What I'm Working Toward
+
+I'm continuing to grow as a leader in analytics and business intelligence — deepening my technical foundation in machine learning and statistical modeling through this program while building on the strategic and cross-functional skills I've developed leading data teams. I'm especially interested in the intersection of rigorous data science and clear business storytelling: insights only create value when the people who need them can act on them.
+
+## Education
+
+- **MS, Applied Business Analytics** — Boston University (2025–Present)
+- **BA, Economics** — Universidad del Norte (2018)
+- Professional certificates in Data Science (Harvard, IBM), SQL for Data Analysis (UC Davis), Big Data (Universitat Autònoma de Barcelona), Data Analytics (Google), Financial Analysis (Yale), and Intellectual Property (WIPO)
+
+## Skills
+
+**Technical:** SQL · Python · R · Power BI · Tableau · Looker · Pandas · Jupyter · Azure · AWS · Snowflake · Oracle · A/B Testing
+
+**Languages:** English (fluent) · Spanish (fluent) · Portuguese (fluent)
